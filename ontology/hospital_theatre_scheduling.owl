@@ -248,6 +248,7 @@
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theatre A</hasName>
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Room A</hasName>
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Theatre A</hasName>
+    <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</hasName>
     <isClean rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</isClean>
     <isUnderMaintenance rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</isUnderMaintenance>
   </owl:NamedIndividual>
@@ -257,6 +258,7 @@
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theatre B</hasName>
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Room B</hasName>
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Theatre B</hasName>
+    <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</hasName>
     <isClean rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</isClean>
     <isUnderMaintenance rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</isUnderMaintenance>
   </owl:NamedIndividual>
@@ -266,6 +268,7 @@
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theatre C</hasName>
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Room C</hasName>
     <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Theatre C</hasName>
+    <hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</hasName>
     <isClean rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</isClean>
     <isUnderMaintenance rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</isUnderMaintenance>
   </owl:NamedIndividual>
